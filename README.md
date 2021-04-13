@@ -1,4 +1,4 @@
-# It is an online auction website created with the help of Django
+## It is an online auction website created with the help of Django
 
 1) clone the project
 2) create a virtual-environment
